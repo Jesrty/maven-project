@@ -1,4 +1,4 @@
-package com.example;
+package com.example.Greeter;
 
 /*test by me aka jesper*/
 
